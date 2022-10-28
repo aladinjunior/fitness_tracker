@@ -19,5 +19,14 @@
     <string name="imc_dialog_title">Seu IMC é: %1$.2f</string>
     <string name="saved">Salvo com sucesso!</string>
     <string name="list_response">IMC value: %1$.2f, date: %2$s</string>
+    <string name="tmb_response">TMB value: %1$.2f, date: %2$s</string>
     <string name="search">Search</string>
+    <string name="tmbHint_height">"Altura em cm: "</string>
+    <string name="tmbHint_weight">"Peso em KG: "</string>
+    <string name="tmb_text"><b>A Taxa Metabólica Basal (TMB) é o mínimo de energia necessária para manter as funções do organismo em repouso, como os batimentos cardíacos, a pressão arterial, a respiração e a manutenção da temperatura corporal</b>.</string>
+    <string name="tmbHint_age">"Idade: "</string>
+    <string name="activity_level">"Qual seu nível de atividade? "</string>
+    <string name="tmb_dialog_message">Seu TMB é: %1$.2f</string>
+    <string name="save_bttn">Save</string>
+
 </resources>
